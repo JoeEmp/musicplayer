@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Musicplayer</string>
+    <string name="action_Search">Search</string>
+</resources>
